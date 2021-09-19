@@ -6,12 +6,15 @@ body {
           }h1 {
         font-size: 100px;
       }
+      
       .ulone li {
         
         float: right;
         display: inline-block;
         margin: 7px 10px ;
       }
+      
+      
       header{
         padding: 35px 30px;
         background-color:#39a6b2;
@@ -86,6 +89,7 @@ body {
   margin: 5px 0 15px 0;
 }
 
+
 .form-input {
   border: 1px solid #024e76;
   display: block;
@@ -95,6 +99,7 @@ body {
   width: 100%;
   margin-bottom: 15px;
 }
-h2{
-  background-image: ;
+#test {
+  color: aliceblue;
+  background-image: url("../images/hero-bg.jpg");
 }
